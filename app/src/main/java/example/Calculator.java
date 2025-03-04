@@ -2,12 +2,12 @@ package example;
 
 public class Calculator {
     public int add(int a, int b) {
-        // Implement add method
+        // TODO: Implement add method
         return a + b;
     }
 
     public int minus(int a, int b) {
-        // Implement minus method
+        // TODO: Implement minus method
         return a - b;
     }
 
