@@ -2,22 +2,22 @@ package example;
 
 public class Calculator {
     public int add(int a, int b) {
-        // Implement add method
+        // TODO: Implement add method
         return a + b;
     }
 
     public int minus(int a, int b) {
-        // Implement minus method
+        // TODO: Implement minus method
         return a - b;
     }
 
     public int multiply(int a, int b) {
-        // Implement multiply method
+        // TODO: Implement multiply method
         return a * b;
     }
 
     public double divide(int a, int b) {
-        // Implement divide method
+        // TODO: Implement divide method
         return a / (double) b;
     }
 }
