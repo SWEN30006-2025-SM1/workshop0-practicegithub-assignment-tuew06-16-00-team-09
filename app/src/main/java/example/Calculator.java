@@ -7,7 +7,7 @@ public class Calculator {
     }
 
     public int minus(int a, int b) {
-        // TODO: Implement minus method
+        // Implement minus method
         return a - b;
     }
 
